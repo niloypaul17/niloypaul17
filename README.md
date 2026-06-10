@@ -35,18 +35,18 @@
 <td valign="top" width="60%">
 
 ```yaml
-name       : NILOY PAUL
-university : American International
+Name       : NILOY PAUL
+University: American International
              University Bangladesh (AIUB)
-major      : Computer Science and
+Major      : Computer Science and
              Engineering - CSE
-focus      : Information Systems
-             AI and Machine Learning
-belief     : "Clean code solves real problems"
-status     : Open to Internships and Collabs
-location   : Bangladesh
-email      : niloypaul38244@gmail.com
-whatsapp   : +880 1721-298298
+             [ Information Systems ]
+Focus      :  AI and Machine Learning
+Belief     : "Clean code solves real problems."
+Status     : Open to Internships and Collabs
+Location   : Bangladesh 
+Email      : niloypaul38244@gmail.com
+Whatsapp   : +880 1721-298298
 ```
 
 > *Like a Ghibli protagonist who finds magic in the ordinary —*
@@ -73,7 +73,7 @@ whatsapp   : +880 1721-298298
 <img src="profile.jpg" alt="Niloy Paul" width="220" style="border-radius:16px; border: 3px solid #D4A843;" />
 
 <br/>
-<sub><i>📁 Upload your photo as <b>profile.jpg</b> to this repo</i></sub>
+<sub><i> NILOY PAUL </i></sub>
 
 </td>
 </tr>
