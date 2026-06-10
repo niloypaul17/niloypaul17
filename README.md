@@ -35,18 +35,16 @@
 <td valign="top" width="60%">
 
 ```yaml
-Name       : NILOY PAUL
-University: American International
-             University Bangladesh (AIUB)
-Major      : Computer Science and
-             Engineering - CSE
-             [ Information Systems ]
-Focus      :  AI and Machine Learning
-Belief     : "Clean code solves real problems."
-Status     : Open to Internships and Collabs
-Location   : Bangladesh 
-Email      : niloypaul38244@gmail.com
-Whatsapp   : +880 1721-298298
+Name      : NILOY PAUL
+University: American International University Bangladesh (AIUB)
+Major     : Computer Science and Engineering - CSE
+            [ Information Systems ]
+Focus     : AI and Machine Learning
+Belief    : Clean code solves real problems.
+Status    : Open to Internships and Collabs
+Location  : Bangladesh 
+Email     : niloypaul38244@gmail.com
+WhatsApp  : +8801721-298298
 ```
 
 > *Like a Ghibli protagonist who finds magic in the ordinary —*
